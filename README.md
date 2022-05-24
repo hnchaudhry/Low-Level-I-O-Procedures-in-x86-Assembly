@@ -4,7 +4,7 @@ This is a project that was completed as part of a course in computer architectur
 ## Description of the Program
 When the program runs, it does the following:
 
-1. Gets 10 valid integers from the user.
+1. Gets 10 valid signed integers from the user that fit in a 32-bit register (-2147483648 to 2147483647).
 2. Stores the user entered integers in an array.
 3. Displays the integers entered, the sum of the integers, and their truncated average.
 

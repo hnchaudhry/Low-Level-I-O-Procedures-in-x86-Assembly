@@ -1,4 +1,4 @@
-# Low-Level-IO-Procedures-in-x86-Assembly
+# Low-Level-Input-Output-in-MASM-x86-Assembly
 This is a project that was completed as part of a course in computer architecture and assembly language for my undergraduate CS degree. The purpose of the project was to design, implement, and call low-level I/O procedures as well as implement and use macros in x86 assembly using Microsoft Macro Assembler and the Irvine library.
 
 ## Description of the Program
